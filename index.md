@@ -1,9 +1,7 @@
 
-## Gregg Miller
+## Welcome to my page, get to know more about me professionally.
 ```markdown
-**Name:** Gregg Miller  
-**Nationality**: British
-
+**Location**: Warfield, Bracknell
 
 # Header 1
 ## Header 2
