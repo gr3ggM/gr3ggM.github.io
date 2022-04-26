@@ -1,7 +1,8 @@
-## Gregg Miller
 
 ```markdown
-Syntax highlighted code block
+**Name:** Gregg Miller  
+**Nationality**: British
+
 
 # Header 1
 ## Header 2
