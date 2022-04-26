@@ -1,7 +1,8 @@
 
+# Gregg Miller - BI Developer
 ## Welcome to my page, get to know more about me professionally.
 ```markdown
-**Location**: Warfield, Bracknell
+**Location** Warfield, Bracknell
 
 # Header 1
 ## Header 2
