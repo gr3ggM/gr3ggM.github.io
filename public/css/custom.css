@@ -1,0 +1,37 @@
+.profile-photo{
+   display:inline;
+   border-radius:50%;
+}
+.profile{
+   text-align:center;
+}
+.available{
+   margin-bottom: 1rem;
+   padding:1rem;
+   color:#717171;
+   background-color:#EFDC56;
+}
+.social{
+   list-style:none;
+   font-family: 'Pinyon Script', cursive;
+   font-size:1.75rem;
+}
+.announcement-image{
+   display:inline;
+   border-radius:5%;
+   box-shadow: 0px 0px 24px 0px #515151;
+}
+.post-image{
+   box-shadow: 0px 0px 24px 0px #515151;
+   margin: 1rem 0 1rem;
+}
+.job-title{
+  margin-top: 0.5rem;
+  font-size: 1.25rem;
+}
+.job-location{
+  font-size: 1.25rem;
+}
+.footnote{
+  text-align: center;
+}

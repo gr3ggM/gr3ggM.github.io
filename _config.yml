@@ -1,1 +1,29 @@
-theme: jekyll-theme-cayman
+# Dependencies
+markdown:            kramdown
+highlighter:         rouge
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Pratibha Dutta
+tagline:             'Human Resource Professional'
+description:         ''
+url:                 https://pratibhadutta.us
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Ishan Kapoor
+  url:               
+  email:             
+
+# Custom vars
+version:             1.0.0
+
+# Adding the sitemap gem as per GitHub documentation
+gems:
+  - jekyll-sitemap
