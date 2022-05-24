@@ -8,16 +8,16 @@ highlighter:         rouge
 permalink:           pretty
 
 # Setup
-title:               Pratibha Dutta
-tagline:             'Human Resource Professional'
+title:               Gregg Miller
+tagline:             'Bi Developer'
 description:         ''
-url:                 https://pratibhadutta.us
+url:                 https://gr3ggm.github.io/
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Ishan Kapoor
+  name:              Gregg Miller
   url:               
   email:             
 
