@@ -9,7 +9,7 @@ permalink:           pretty
 
 # Setup
 title:               Gregg Miller
-tagline:             'Bi Developer'
+tagline:             'BI Developer'
 description:         ''
 url:                 https://gr3ggm.github.io/
 baseurl:             ''
@@ -18,8 +18,8 @@ paginate:            5
 # About/contact
 author:
   name:              Gregg Miller
-  url:               
-  email:             
+  url:               https://gr3ggm.github.io/
+  email:             gregg.miller@gmail.com
 
 # Custom vars
 version:             1.0.0
