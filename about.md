@@ -16,5 +16,5 @@ I'm a BI & Database Developer from Reading, UK. My main areas of expertise are M
 •	Created key SQL Server Integration Service (SSIS) packages and VB scripts for UK&I vendor data ingestion. (Dun & Bradstreet Ltd)
 
 <p class="available">
-  I am actively looking for a job in the BI/Database space, Please contact me via <a href="https://www.linkedin.com/in/gr3ggmiller/">LinkedIn</a>.
+  I am actively looking for a job in the BI/Database Developer space, Please contact me via <a href="https://www.linkedin.com/in/gr3ggmiller/">LinkedIn</a>.
 </p>
