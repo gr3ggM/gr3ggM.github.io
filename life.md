@@ -7,5 +7,5 @@ I grew up in Woodley, Reading UK and from an early age (10) was interested in co
 Here's how I spend my after hours
 
 ### Family
-Post work I'm and husband and a farther, living in Warfield, Bracknell UK. I spend my weekends with my family going to parks, events and walks. 
+Post work I'm a husband and a farther, living in Warfield, Bracknell UK. I spend my weekends with my family going to parks, events and walks. 
 
